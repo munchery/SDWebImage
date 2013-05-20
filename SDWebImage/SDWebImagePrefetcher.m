@@ -63,7 +63,7 @@
 
         if (image)
         {
-            NSLog(@"Prefetched %d out of %d", self.finishedCount, self.prefetchURLs.count);
+            //NSLog(@"Prefetched %d out of %d", self.finishedCount, self.prefetchURLs.count);
         }
         else
         {
